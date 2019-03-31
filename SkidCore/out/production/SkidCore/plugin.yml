@@ -1,0 +1,21 @@
+name: SkidCore
+description: SkidCore is a all in one minecraft plugin.
+author: Shprqness Development {Shprqness}
+main: club.shprqness.skidcore.SkidCore
+version: 1.0
+
+commands:
+  website:
+    usage: /website
+  help:
+    usage: /help
+  discord:
+    usage: /discord
+  ping:
+    usage: /ping
+  clearchat:
+    usage: /clearchat
+  spawn:
+    usage: /spawn
+  tps:
+    usage: /tps

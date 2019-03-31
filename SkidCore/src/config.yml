@@ -1,0 +1,24 @@
+Options:
+  website: 'http://traphq.cc'
+  discord: 'discord.blabla.com'
+  motd: '&7(&6SpigotMC&7) &cTutorial For YouTube #SkidDevelopment!'
+  maxplayers: 69
+
+Spawn:
+  worldname: 'world' #place your world here
+  Y: 100.0 #this is where you put the Y coord.
+  Z: 0.0 #this is where you put the Z coord.
+  X: 0.0 #this is where you put the X coord.
+  message: '&6You have been tped to spawn.'
+
+AntiGreif:
+  enabled: false
+  permission-to-break-blocks: 'blocks.break'
+  permission-to-place-blocks: 'blocks.place'
+
+Events:
+  void-damage: true
+  player-vs-player: true
+  fall-damage: true
+  fire-tick: true
+  fire: true
